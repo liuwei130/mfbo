@@ -1,0 +1,3 @@
+from myBO.scripts.MultiFidelityBO.multifidelity_bayesian_opt import *
+from myBO.scripts.MultiFidelityBO.parallel_multifidelity_bayesian_opt import *
+from myBO.scripts.MultiFidelityBO.traceaware_multifidelity_bayesian_opt import *
